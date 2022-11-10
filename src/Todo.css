@@ -1,0 +1,56 @@
+.TaskData{
+    box-shadow: 0px 0px 5px rgb(148, 96, 1);
+    border: 2px solid rgb(132, 87, 1);
+    background-color:rgba(6, 251, 251, 0.9);
+    width: 400px;
+    height: 40vh;
+    padding: 0px 10px;
+    padding: 10px 15px;
+    margin-top:58px;
+    margin-bottom: 400px;
+    overflow: auto;
+    
+}
+
+.tasks{
+    margin: 10px 10px;
+    color: #333;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-weight: 700;
+    font-size: 20px;
+    float: left;
+    color:rgb(198, 119, 0) ;
+    
+}
+
+button{ 
+   margin-left: 15px;
+   margin-bottom: 5px;
+    padding: 6px 14px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 15px;
+    border-color:  rgb(232, 151, 0);
+    color: rgb(232, 151, 0);
+    background: white;
+
+}
+
+.taskList{
+
+    border-bottom: 2px solid orange;
+    
+}
+
+span{
+    margin: 20px 120px;
+}
+
+@media only screen and (max-width:900px) {
+    .TaskData{
+        margin: 0px auto;
+    }
+}
