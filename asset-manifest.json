@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/css/main.1e2e1f7a.css",
-    "main.js": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/js/main.b52c7b66.js",
-    "static/js/787.bc7d429a.chunk.js": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/js/787.bc7d429a.chunk.js",
-    "index.html": "/https;//rahamtullah8500.github.io/Todo-crud-js/index.html",
-    "main.1e2e1f7a.css.map": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/css/main.1e2e1f7a.css.map",
-    "main.b52c7b66.js.map": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/js/main.b52c7b66.js.map",
-    "787.bc7d429a.chunk.js.map": "/https;//rahamtullah8500.github.io/Todo-crud-js/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/https;//rahamtullah8500.github.io/crud-js/static/css/main.1e2e1f7a.css",
+    "main.js": "/https;//rahamtullah8500.github.io/crud-js/static/js/main.628d73de.js",
+    "static/js/787.bc7d429a.chunk.js": "/https;//rahamtullah8500.github.io/crud-js/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/https;//rahamtullah8500.github.io/crud-js/index.html",
+    "main.1e2e1f7a.css.map": "/https;//rahamtullah8500.github.io/crud-js/static/css/main.1e2e1f7a.css.map",
+    "main.628d73de.js.map": "/https;//rahamtullah8500.github.io/crud-js/static/js/main.628d73de.js.map",
+    "787.bc7d429a.chunk.js.map": "/https;//rahamtullah8500.github.io/crud-js/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e2e1f7a.css",
-    "static/js/main.b52c7b66.js"
+    "static/js/main.628d73de.js"
   ]
 }
